@@ -1,0 +1,22 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# ESportsTools
+
+<!-- badges: start -->
+
+<!-- badges: end -->
+
+This package is a kit to provide an overview on gamer stats, including
+kd ratios, plotting scores and kd ratios, and for comparing game and
+player performance.
+
+## Installation
+
+You can install the development version of ESportsTools from
+[GitHub](https://github.com/) with:
+
+``` r
+# install.packages("pak")
+pak::pak("chstanke/ESportsTools")
+```
